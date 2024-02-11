@@ -12,7 +12,7 @@
 <p align="center">
 	<a href="https://github.com/f-corvaro/LIBFT/blob/main/.extra/en.subject.pdf"><img alt="subject" src="https://img.shields.io/badge/subject-libft-yellow" />
 	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/f-corvaro/LIBFT?color=blueviolet" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/f-corvaro/LIBFT?color=blueviolet" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/f-corvaro/LIBFT?color=yellow" />
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/f-corvaro/LIBFT?color=blueviolet" />
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/f-corvaro/LIBFT?color=yellow" />
 </p>
@@ -34,8 +34,8 @@
   <a href="#6---special-thanks">6 - Special Thanks</a><br>
   <a href="#support-me">Support Me</a><br>
   <a href="#skills-developed">Skills developed</a><br>
-  <a href="#license">License</a>
-  <a href="#author">Author</a><br>
+  <a href="#license">License</a><br>
+  <a href="#author">Author</a>
 </p>
 
 <br>

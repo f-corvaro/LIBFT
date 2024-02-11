@@ -2,8 +2,10 @@
 
 <a href="https://github.com/f-corvaro/LIBFT/tree/main"><img align="center" src="https://github.com/f-corvaro/LIBFT/blob/main/.extra/libft.png">
 
+[![subject](https://img.shields.io/badge/subject-libft-blueviolet)](https://github.com/f-corvaro/LIBFT/blob/main/.extra/en.subject.pdf)
+
 <p align="center">
-	[![subject](https://img.shields.io/badge/subject-libft-blueviolet)](https://github.com/f-corvaro/LIBFT/blob/main/.extra/en.subject.pdf)
+	<img alt="subject-libft" src="https://github.com/f-corvaro/LIBFT/blob/main/.extra/en.subject.pdf?color=blueviolet" />
 	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/f-corvaro/LIBFT?color=blueviolet" />
 	<img alt="Code language count" src="https://img.shields.io/github/languages/count/f-corvaro/LIBFT?color=blueviolet" />
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/f-corvaro/LIBFT?color=blueviolet" />

@@ -108,29 +108,29 @@ After the compiling, you will have also .o files and the libft.a file.
 
 | Libc functions  | Additional functions | Bonus part |  other |
 | ------------- | ------------- | ------------- |  ------------- |
-| [ft_atoi.c](https://github.com/f-corvaro/LIBFT/libft/ft_atoi.c)| [ft_itoa.c](https://github.com/f-corvaro/LIBFT/libft/ft_itoa.c)  | [ft_lstadd_back.c](https://github.com/f-corvaro/LIBFT/libft/ft_lstadd_back.c)  | [libft.h](https://github.com/f-corvaro/LIBFT/libft/libft.h) |
-| [ft_bzero.c](https://github.com/f-corvaro/LIBFT/libft/ft_bzero.c) | [ft_putchar_fd.c](https://github.com/f-corvaro/LIBFT/libft/ft_putchar_fd.c)  | [ft_lstadd_front.c](https://github.com/f-corvaro/LIBFT/libft/ft_lstadd_front.c)  | [makefile](https://github.com/f-corvaro/LIBFT/libft/Makefile)  |
-| [ft_calloc.c](https://github.com/f-corvaro/LIBFT/libft/ft_calloc.c)  | [ft_putendl_fd.c](https://github.com/f-corvaro/LIBFT/libft/ft_putendl_fd.c)  | [ft_lstclear.c](https://github.com/f-corvaro/LIBFT/libft/ft_lstclear.c)  |
-| [ft_isalnum.c](https://github.com/f-corvaro/LIBFT/libft/ft_isalnum.c) | [ft_putnbr_fd.c](https://github.com/f-corvaro/LIBFT/libft/ft_putnbr_fd.c)  | [ft_lstdelone.c](https://github.com/f-corvaro/LIBFT/libft/ft_lstdelone.c)  |
-| [ft_isalpha.c](https://github.com/f-corvaro/LIBFT/libft/ft_isalpha.c)  | [ft_putstr_fd.c](https://github.com/f-corvaro/LIBFT/libft/ft_putstr_fd.c)  | [ft_lstiter.c](https://github.com/f-corvaro/LIBFT/libft/ft_lstiter.c)  |
-| [ft_isascii.c](https://github.com/f-corvaro/LIBFT/libft/ft_isascii.c)  | [ft_split.c](https://github.com/f-corvaro/LIBFT/libft/ft_split.c)  | [ft_lstlast.c](https://github.com/f-corvaro/LIBFT/libft/ft_lstlast.c)  |
-| [ft_isdigit.c](https://github.com/f-corvaro/LIBFT/libft/ft_isdigit.c)  | [ft_striteri.c](https://github.com/f-corvaro/LIBFT/libft/ft_striteri.c)  | [ft_lstmap.c](https://github.com/f-corvaro/LIBFT/libft/ft_lstmap.c)  |
-| [ft_isprint.c](https://github.com/f-corvaro/LIBFT/libft/ft_isprint.c)  | [ft_strjoin.c](https://github.com/f-corvaro/LIBFT/libft/ft_strjoin.c)  | [ft_lstnew.c](https://github.com/f-corvaro/LIBFT/libft/ft_lstnew.c)  |
-| [ft_memchr.c](https://github.com/f-corvaro/LIBFT/libft/ft_memchr.c)  | [ft_strmapi.c](https://github.com/f-corvaro/LIBFT/libft/ft_strmapi.c)  | [ft_lstsize.c](https://github.com/f-corvaro/LIBFT/libft/ft_lstsize.c)  |
-| [ft_memcmp.c](https://github.com/f-corvaro/LIBFT/libft/ft_memcmp.c)  | [ft_strtrim.c](https://github.com/f-corvaro/LIBFT/libft/ft_strtrim.c)  |
-| [ft_memcpy.c](https://github.com/f-corvaro/LIBFT/libft/ft_memcpy.c) | [ft_substr.c](https://github.com/f-corvaro/LIBFT/libft/ft_substr.c)  |
-| [ft_memmove.c](https://github.com/f-corvaro/LIBFT/libft/ft_memmove.c)  |
-| [ft_memset.c](https://github.com/f-corvaro/LIBFT/libft/ft_memset.c) |
-| [ft_strchr.c](https://github.com/f-corvaro/LIBFT/libft/ft_strchr.c)  |
-| [ft_strdup.c](https://github.com/f-corvaro/LIBFT/libft/ft_strdup.c)  |
-| [ft_strlcat.c](https://github.com/f-corvaro/LIBFT/libft/ft_strlcat.c)  |
-| [ft_strlcpy.c](https://github.com/f-corvaro/LIBFT/libft/ft_strlcpy.c)  |
-| [ft_strlen.c](https://github.com/f-corvaro/LIBFT/libft/ft_strlen.c)  |
-| [ft_strncmp.c](https://github.com/f-corvaro/LIBFT/libft/ft_strncmp.c)  |
-| [ft_strnstr.c](https://github.com/f-corvaro/LIBFT/libft/ft_strnstr.c)  |
-| [ft_strrchr.c](https://github.com/f-corvaro/LIBFT/libft/ft_strrchr.c)  |
-| [ft_tolower.c](https://github.com/f-corvaro/LIBFT/libft/ft_tolower.c)  |
-| [ft_toupper.c](https://github.com/f-corvaro/LIBFT/libft/ft_toupper.c)  |
+| [ft_atoi.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_atoi.c)| [ft_itoa.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_itoa.c)  | [ft_lstadd_back.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_lstadd_back.c)  | [libft.h](https://github.com/f-corvaro/LIBFT/blob/main/libft/libft.h) |
+| [ft_bzero.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_bzero.c) | [ft_putchar_fd.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_putchar_fd.c)  | [ft_lstadd_front.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_lstadd_front.c)  | [makefile](https://github.com/f-corvaro/LIBFT/blob/main/libft/Makefile)  |
+| [ft_calloc.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_calloc.c)  | [ft_putendl_fd.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_putendl_fd.c)  | [ft_lstclear.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_lstclear.c)  |
+| [ft_isalnum.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_isalnum.c) | [ft_putnbr_fd.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_putnbr_fd.c)  | [ft_lstdelone.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_lstdelone.c)  |
+| [ft_isalpha.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_isalpha.c)  | [ft_putstr_fd.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_putstr_fd.c)  | [ft_lstiter.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_lstiter.c)  |
+| [ft_isascii.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_isascii.c)  | [ft_split.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_split.c)  | [ft_lstlast.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_lstlast.c)  |
+| [ft_isdigit.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_isdigit.c)  | [ft_striteri.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_striteri.c)  | [ft_lstmap.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_lstmap.c)  |
+| [ft_isprint.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_isprint.c)  | [ft_strjoin.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_strjoin.c)  | [ft_lstnew.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_lstnew.c)  |
+| [ft_memchr.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_memchr.c)  | [ft_strmapi.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_strmapi.c)  | [ft_lstsize.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_lstsize.c)  |
+| [ft_memcmp.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_memcmp.c)  | [ft_strtrim.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_strtrim.c)  |
+| [ft_memcpy.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_memcpy.c) | [ft_substr.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_substr.c)  |
+| [ft_memmove.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_memmove.c)  |
+| [ft_memset.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_memset.c) |
+| [ft_strchr.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_strchr.c)  |
+| [ft_strdup.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_strdup.c)  |
+| [ft_strlcat.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_strlcat.c)  |
+| [ft_strlcpy.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_strlcpy.c)  |
+| [ft_strlen.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_strlen.c)  |
+| [ft_strncmp.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_strncmp.c)  |
+| [ft_strnstr.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_strnstr.c)  |
+| [ft_strrchr.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_strrchr.c)  |
+| [ft_tolower.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_tolower.c)  |
+| [ft_toupper.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_toupper.c)  |
 
 </p>
 <br>
@@ -145,7 +145,7 @@ To build the library use the ```make``` command. To get an overview of all make 
 make info
 ```
 
- <a href="https://github.com/f-corvaro/LIBFT"><img align="center" alt="running test" width="650" src="https://github.com/f-corvaro/LIBFT/tree/main/.extra/make.gif">
+ <a href="https://github.com/f-corvaro/LIBFT"><img align="center" alt="running test" width="650" src="https://github.com/f-corvaro/LIBFT/blob/main/.extra/make.gif">
 
 </p>
 <br>
@@ -160,12 +160,12 @@ make info
 
 ### 5.2 - Correction Sheet
 
-<a href="https://github.com/f-corvaro/LIBFT"><img width="650" src="https://github.com/f-corvaro/LIBFT/tree/main/.extra/libft_cs.png">
+<a href="https://github.com/f-corvaro/LIBFT"><img width="650" src="https://github.com/f-corvaro/LIBFT/blob/main/.extra/libft_cs.png">
 
 ### 5.3 - My Moulinette Results
 
  <a href="https://projects.intra.42.fr/projects/42cursus-libft/projects_users/3049229">
-  <img align="center" img src="https://github.com/f-corvaro/LIBFT/tree/main/.extra/moulinette_libft.png">
+  <img align="center" img src="https://github.com/f-corvaro/LIBFT/blob/main/.extra/moulinette_libft.png">
  </a>
 </p>
 <br>

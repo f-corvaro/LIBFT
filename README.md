@@ -5,7 +5,7 @@
 [![subject](https://img.shields.io/badge/subject-libft-blueviolet)](https://github.com/f-corvaro/LIBFT/blob/main/.extra/en.subject.pdf)
 
 <p align="center">
-	<img alt="subject-libft" src="https://github.com/f-corvaro/LIBFT/blob/main/.extra/en.subject.pdf?color=blueviolet" />
+	<a href="https://github.com/f-corvaro/LIBFT/blob/main/.extra/en.subject.pdf"><img alt="subject" src="https://img.shields.io/badge/subject-libft-blueviolet" />
 	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/f-corvaro/LIBFT?color=blueviolet" />
 	<img alt="Code language count" src="https://img.shields.io/github/languages/count/f-corvaro/LIBFT?color=blueviolet" />
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/f-corvaro/LIBFT?color=blueviolet" />

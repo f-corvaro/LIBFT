@@ -1,38 +1,41 @@
-# **LIBFT**
+<h1 align="center">LIBFT</h1>
 
-<a href="https://github.com/f-corvaro/LIBFT/tree/main"><img align="center" src="https://github.com/f-corvaro/LIBFT/blob/main/.extra/libft.png">
-
-[![subject](https://img.shields.io/badge/subject-libft-blueviolet)](https://github.com/f-corvaro/LIBFT/blob/main/.extra/en.subject.pdf)
+<p align="center">
+  <a href="https://github.com/f-corvaro/LIBFT/tree/main">
+	<img src="https://github.com/f-corvaro/LIBFT/blob/main/.extra/libft.png" alt="Libft">
+  </a>
+</p>
 
 <p align="center">
 	<b><i>"A solid foundation for system programming in C."</i></b><br>
 </p>
 <p align="center">
-	<a href="https://github.com/f-corvaro/LIBFT/blob/main/.extra/en.subject.pdf"><img alt="subject" src="https://img.shields.io/badge/subject-libft-blueviolet" />
+	<a href="https://github.com/f-corvaro/LIBFT/blob/main/.extra/en.subject.pdf"><img alt="subject" src="https://img.shields.io/badge/subject-libft-yellow" />
 	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/f-corvaro/LIBFT?color=blueviolet" />
 	<img alt="Code language count" src="https://img.shields.io/github/languages/count/f-corvaro/LIBFT?color=blueviolet" />
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/f-corvaro/LIBFT?color=blueviolet" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/f-corvaro/LIBFT?color=blueviolet" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/f-corvaro/LIBFT?color=green" />
 </p>
 
-### Index
+<h3 align="center">Index</h3>
 
-- [**LIBFT**](#libft)
-		- [Index](#index)
-	- [0 - About](#0---about)
-	- [1 - Folder Structure](#1---folder-structure)
-	- [2 - What's in it?](#2---whats-in-it)
-	- [3 - Functions Index](#3---functions-index)
-	- [4 - Running Tests](#4---running-tests)
-	- [5 - Evaluation](#5---evaluation)
-		- [5.1 - Tester](#51---tester)
-		- [5.2 - Correction Sheet](#52---correction-sheet)
-		- [5.3 - My Moulinette Results](#53---my-moulinette-results)
-	- [6 - Special Thanks](#6---special-thanks)
-	- [Support Me](#support-me)
-	- [Skills developed](#skills-developed)
-	- [License](#license)
-
+<p align="center">
+  <a href="#libft">LIBFT</a><br>
+  <a href="#index">Index</a><br>
+  <a href="#0---about">0 - About</a><br>
+  <a href="#1---folder-structure">1 - Folder Structure</a><br>
+  <a href="#2---whats-in-it">2 - What's in it?</a><br>
+  <a href="#3---functions-index">3 - Functions Index</a><br>
+  <a href="#4---running-tests">4 - Running Tests</a><br>
+  <a href="#5---evaluation">5 - Evaluation</a><br>
+  <a href="#51---tester">5.1 - Tester</a><br>
+  <a href="#52---correction-sheet">5.2 - Correction Sheet</a><br>
+  <a href="#53---my-moulinette-results">5.3 - My Moulinette Results</a><br>
+  <a href="#6---special-thanks">6 - Special Thanks</a><br>
+  <a href="#support-me">Support Me</a><br>
+  <a href="#skills-developed">Skills developed</a><br>
+  <a href="#license">License</a>
+</p>
 
 <br>
 

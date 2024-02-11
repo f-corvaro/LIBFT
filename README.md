@@ -9,8 +9,7 @@
 <p align="center">
 	<b><i>"A solid foundation for system programming in C."</i></b><br>
 </p>
-<p align="center">
-<p style="text-decoration: none;">
+<p align="center" style="text-decoration: none;">
     <a href="https://github.com/f-corvaro/LIBFT/blob/main/.extra/en.subject.pdf"><img alt="subject" src="https://img.shields.io/badge/subject-libft-yellow" /></a>
     <a href="https://github.com/f-corvaro/LIBFT"><img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/f-corvaro/LIBFT?color=blueviolet" /></a>
     <a href="https://github.com/f-corvaro/LIBFT"><img alt="Code language count" src="https://img.shields.io/github/languages/count/f-corvaro/LIBFT?color=yellow" /></a>

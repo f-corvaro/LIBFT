@@ -14,7 +14,7 @@
 	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/f-corvaro/LIBFT?color=blueviolet" />
 	<img alt="Code language count" src="https://img.shields.io/github/languages/count/f-corvaro/LIBFT?color=blueviolet" />
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/f-corvaro/LIBFT?color=blueviolet" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/f-corvaro/LIBFT?color=green" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/f-corvaro/LIBFT?color=yellow" />
 </p>
 
 <h3 align="center">Index</h3>
@@ -188,6 +188,19 @@ make info
 
 [@dieremy]( https://github.com/dieremy ) <p align="justify">  helped me to test and resolve leaks in my functions. Furthermore, he introduced to me this project: explaining to me some functions and some theory about it. </p>
 [@MirkokriM]( https://github.com/MirkokriM ) <p align="justify"> for the gif idea.</p>
+<br>
+
+## Author
+
+<p align="center"><a href="https://profile.intra.42.fr/users/fcorvaro"><img style="height:auto;" src="https://avatars.githubusercontent.com/u/102758065?v=4" width="100" height="100"alt=""></a>
+<p align="center">
+<a href="mailto:fcorvaro@student.42roma.it"><kbd>Email</kbd><alt=""></a>
+<a href="https://github.com/f-corvaro"><kbd>Github</kbd><alt=""></a>
+<a href="https://www.linkedin.com/in/f-corvaro/"><kbd>Linkedin</kbd><alt=""></a>
+<a href="https://42born2code.slack.com/team/U050L8XAFLK"><kbd>Slack</kbd><alt=""></a>
+
+<hr/>
+
 <br>
 
 ## Support Me

@@ -35,7 +35,7 @@
   <a href="#support-me">Support Me</a><br>
   <a href="#skills-developed">Skills developed</a><br>
   <a href="#license">License</a>
-  <a href="#author">Author</a>
+  <a href="#author">Author</a><br>
 </p>
 
 <br>

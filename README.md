@@ -35,6 +35,7 @@
   <a href="#support-me">Support Me</a><br>
   <a href="#skills-developed">Skills developed</a><br>
   <a href="#license">License</a>
+  <a href="#author">Author</a>
 </p>
 
 <br>
@@ -190,19 +191,6 @@ make info
 [@MirkokriM]( https://github.com/MirkokriM ) <p align="justify"> for the gif idea.</p>
 <br>
 
-## Author
-
-<p align="center"><a href="https://profile.intra.42.fr/users/fcorvaro"><img style="height:auto;" src="https://avatars.githubusercontent.com/u/102758065?v=4" width="100" height="100"alt=""></a>
-<p align="center">
-<a href="mailto:fcorvaro@student.42roma.it"><kbd>Email</kbd><alt=""></a>
-<a href="https://github.com/f-corvaro"><kbd>Github</kbd><alt=""></a>
-<a href="https://www.linkedin.com/in/f-corvaro/"><kbd>Linkedin</kbd><alt=""></a>
-<a href="https://42born2code.slack.com/team/U050L8XAFLK"><kbd>Slack</kbd><alt=""></a>
-
-<hr/>
-
-<br>
-
 ## Support Me
 
 <p align="justify">
@@ -229,3 +217,14 @@ If you want to support me:</p>
 <a href="https://opensource.org/licenses/"><img src="https://img.shields.io/badge/License-GPL%20v3-yellow.svg" alt="GPLv3 License"></a>
 <a href="http://www.gnu.org/licenses/agpl-3.0"><img src="https://img.shields.io/badge/license-AGPL-blue.svg" alt="AGPL License"></a>
 <br>
+
+## Author
+
+<p align="center"><a href="https://profile.intra.42.fr/users/fcorvaro"><img style="height:auto;" src="https://avatars.githubusercontent.com/u/102758065?v=4" width="100" height="100"alt=""></a>
+<p align="center">
+<a href="mailto:fcorvaro@student.42roma.it"><kbd>Email</kbd><alt=""></a>
+<a href="https://github.com/f-corvaro"><kbd>Github</kbd><alt=""></a>
+<a href="https://www.linkedin.com/in/f-corvaro/"><kbd>Linkedin</kbd><alt=""></a>
+<a href="https://42born2code.slack.com/team/U050L8XAFLK"><kbd>Slack</kbd><alt=""></a>
+
+<hr/>

@@ -1,10 +1,8 @@
-<h1 align="center">LIBFT</h1>
-
-<p align="center">
-  <a href="https://github.com/f-corvaro/LIBFT/tree/main">
+<h1 align="center">
+<a href="https://github.com/f-corvaro/LIBFT/tree/main">
 	<img src="https://github.com/f-corvaro/LIBFT/blob/main/.extra/libft.png" alt="Libft">
   </a>
-</p>
+</h1>
 
 <p align="center">
 	<b><i>"A solid foundation for system programming in C."</i></b><br>

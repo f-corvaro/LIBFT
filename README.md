@@ -16,37 +16,37 @@
 </p>
 
 <h3 align="center">Index</h3>
-
 <p align="center">
-  <a href="#libft">LIBFT</a><br>
-  <a href="#index">Index</a><br>
-  <a href="#0---about">0 - About</a><br>
-  <a href="#1---folder-structure">1 - Folder Structure</a><br>
-  <a href="#2---whats-in-it">2 - What's in it?</a><br>
-  <a href="#3---functions-index">3 - Functions Index</a><br>
-  <a href="#4---running-tests">4 - Running Tests</a><br>
-  <a href="#5---evaluation">5 - Evaluation</a><br>
-  <a href="#51---tester">5.1 - Tester</a><br>
-  <a href="#52---correction-sheet">5.2 - Correction Sheet</a><br>
-  <a href="#53---my-moulinette-results">5.3 - My Moulinette Results</a><br>
-  <a href="#6---special-thanks">6 - Special Thanks</a><br>
-  <a href="#support-me">Support Me</a><br>
-  <a href="#skills-developed">Skills developed</a><br>
-  <a href="#author">Author</a>
+ <a href="#introduction">Introduction</a><br>
+ <a href="#folder-structure">Folder Structure</a><br>
+ <a href="#contents-overview">Contents Overview</a><br>
+ <a href="#building-the-library">Building the Library</a><br>
+ &nbsp;&nbsp;<a href="#visual-guide-to-running-tests">Visual Guide to Running Tests</a><br>
+ <a href="#evaluation-process">Evaluation Process</a><br>
+ &nbsp;&nbsp;<a href="#pre-submission-testing">Pre-Submission Testing</a><br>
+ &nbsp;&nbsp;<a href="#correction-sheet">Correction Sheet</a><br>
+ &nbsp;&nbsp;<a href="#moulinette-feedback">Moulinette Feedback</a><br>
+ <a href="#acknowledgments">Acknowledgments</a><br>
+ <a href="#developed-skills">Developed Skills</a><br>
+ <a href="#support-and-contributions">Support and Contributions</a><br>
+ <a href="#author">Author</a><br>
 </p>
-
 <br>
 
-## 0 - About
+## Introduction
+
 <p align="justify">
-The journey in 42 Schools starts from here, this is the first project you face it. The purpose of the project is to re-code some libc functions and other common utility functions and include in an archive library, that it will be very helpful for the future projects. In this project there is norminette and Moulinette, so you will be checked from peers and Moulinette.
 
-You can find my complete static C library [here](https://github.com/f-corvaro/my_static_C_library).
+The journey at 42 Schools begins with this foundational project. It challenges students to reimplement certain standard C library functions, along with other utility functions, and compile them into a static library. This serves as a crucial resource for future projects. Adherence to the Norminette coding standards and passing the Moulinette tests are key aspects of this project, ensuring that both peers and automated systems will evaluate your work.
+
+Explore my complete static C library [here](https://github.com/f-corvaro/my_static_C_library).
+
+This project demands a solid understanding of the C programming language, including data types, loops, conditionals, functions, and memory management. Students must also develop proficiency in debugging, testing, and documentation to ensure their code is reliable and understandable. Mastery of these skills is essential for tackling the complexities of software development and contributes significantly to the success in the Libft project and beyond.
 
 </p>
 <br>
 
-## 1 - Folder Structure
+## Folder Structure
 
 ```
 .
@@ -99,26 +99,24 @@ You can find my complete static C library [here](https://github.com/f-corvaro/my
 │   │   └── Makefile
 ```
 
+## Contents Overview
 
-## 2 - What's in it?
+<p align="justify">
 
-There are 4 sections:
+This section is divided into four categories:
 
-1. **Libc Functions:** <p align="justify"> Some of the standard C functions;</p>
-2. **Additional Functions:** <p align="justify">Functions that will be useful for other projects;</p>
-3. **Bonus Functions:** <p align="justify">Functions that will be useful for linked list manipulation;</p>
-4. **Other:** <p align="justify"> makefile and libft.h.</p>
+1. **Libc Functions:** Standard C library functions reimplemented.
+2. **Additional Functions:** Useful functions for future projects.
+3. **Bonus Functions:** Functions specifically designed for linked list manipulation.
+4. **Other Components:** Includes the Makefile and libft.h header file.
 
-After the compiling, you will have also .o files and the libft.a file.
+Compiling the library generates object `.o` files and the static library file `libft.a`.
 
-<br>
-
-## 3 - Functions Index
+</p>
 
 <p align="center">
 
-
-| Libc functions  | Additional functions | Bonus part |  other |
+| Libc Functions  | Additional Functions | Bonus Functions |  other Components |
 | ------------- | ------------- | ------------- |  ------------- |
 | [ft_atoi.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_atoi.c)| [ft_itoa.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_itoa.c)  | [ft_lstadd_back.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_lstadd_back.c)  | [libft.h](https://github.com/f-corvaro/LIBFT/blob/main/libft/libft.h) |
 | [ft_bzero.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_bzero.c) | [ft_putchar_fd.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_putchar_fd.c)  | [ft_lstadd_front.c](https://github.com/f-corvaro/LIBFT/blob/main/libft/ft_lstadd_front.c)  | [makefile](https://github.com/f-corvaro/LIBFT/blob/main/libft/Makefile)  |
@@ -147,34 +145,56 @@ After the compiling, you will have also .o files and the libft.a file.
 </p>
 <br>
 
-## 4 - Running Tests
+## Building the Library
 
 <p align="justify">
 
-To build the library use the ```make``` command. To get an overview of all make commands run:
+To compile the library, utilize the following command:
+
+```bash
+make
+```
+
+For a detailed list of commands available within the `make` utility, execute:
 
 ```bash
 make info
 ```
+
+### Visual Guide to Running Tests
 
  <a href="https://github.com/f-corvaro/LIBFT"><img align="center" alt="running test" width="650" src="https://github.com/f-corvaro/LIBFT/blob/main/.extra/make.gif">
 
 </p>
 <br>
 
-## 5 - Evaluation
+## Evaluation Process
 
-### 5.1 - Tester
+### Pre-Submission Testing
 
-<p align="justify"> To test my project before the Moulinette and peers corrections, use the: </p>
+<p align="justify"> 
 
-[Supreme Tester](https://github.com/FranFrau/Supreme-Tester-Libft) of [@FranFrau]( https://github.com/FranFrau )
+To ensure your project is ready for submission and peer reviews, it's recommended to test it using the [Supreme Tester](https://github.com/FranFrau/Supreme-Tester-Libft) provided by [@FranFrau](https://github.com/FranFrau).
 
-### 5.2 - Correction Sheet
+</p>
+
+### Correction Sheet
+
+<p align="justify"> 
+
+For a comprehensive review of what will be checked during evaluation, refer to the correction sheet below:
+
+</p>
 
 <a href="https://github.com/f-corvaro/LIBFT"><img width="650" src="https://github.com/f-corvaro/LIBFT/blob/main/.extra/libft_cs.png">
 
-### 5.3 - My Moulinette Results
+### Moulinette Feedback
+
+<p align="justify"> 
+
+After submission, the Moulinette (an automated grading system) will evaluate your project. You can view the results and feedback here:
+
+</p>
 
  <a href="https://projects.intra.42.fr/projects/42cursus-libft/projects_users/3049229">
   <img align="center" img src="https://github.com/f-corvaro/LIBFT/blob/main/.extra/moulinette_libft.png">
@@ -182,31 +202,34 @@ make info
 </p>
 <br>
 
-## 6 - Special Thanks
-
-[@dieremy]( https://github.com/dieremy ) <p align="justify">  helped me to test and resolve leaks in my functions. Furthermore, he introduced to me this project: explaining to me some functions and some theory about it. </p>
-[@MirkokriM]( https://github.com/MirkokriM ) <p align="justify"> for the gif idea.</p>
-<br>
-
-## Support Me
+## Acknowledgments
 
 <p align="justify">
-Remember to ⭐ the repository.
-If you want to support me:</p>
 
-<p align="center">
-<a href="https://ko-fi.com/fcorvaro"><img width="180" img align="center" src="https://github.com/f-corvaro/42.common_core/blob/main/.extra/support-me-ko-fi.svg"><alt=""></a>
-<a href="https://github.com/sponsors/f-corvaro"><img width="180" img align="center" src="https://github.com/f-corvaro/42.common_core/blob/main/.extra/support-me-github.svg"><alt=""></a>
+- **[@dieremy](https://github.com/dieremy)**: Helped with testing and resolving leaks in functions. Additionally, provided an introduction to the project, explaining various functions and theoretical aspects.
+- **[@MirkokriM](https://github.com/MirkokriM)**: Inspired the idea for the GIF.
 
+</p>
 <br>
 
-## Skills developed
+## Developed Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,c,vim,vscode" />
   </a>
 </p><br>
+
+## Support and Contributions
+
+<p align="justify">
+If you find this repository helpful, please consider starring it to show your support.. Your support is greatly appreciated!</p>
+
+<p align="center">
+<a href="https://ko-fi.com/fcorvaro"><img width="180" img align="center" src="https://github.com/f-corvaro/42.common_core/blob/main/.extra/support-me-ko-fi.svg"><alt=""></a>
+<a href="https://github.com/sponsors/f-corvaro"><img width="180" img align="center" src="https://github.com/f-corvaro/42.common_core/blob/main/.extra/support-me-github.svg"><alt=""></a>
+
+<br>
 
 ## Author
 

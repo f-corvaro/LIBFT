@@ -229,7 +229,7 @@ After submission, the Moulinette (an automated grading system) will evaluate you
 ## Support and Contributions
 
 <p align="center">
-If you find this repository helpful, please consider starring it to show your support.. Your support is greatly appreciated!</p>
+If you find this repository helpful, please consider starring it to show your support. Your support is greatly appreciated!</p>
 
 <p align="center">
 <a href="https://ko-fi.com/fcorvaro"><img width="180" img align="center" src="https://github.com/f-corvaro/42.common_core/blob/main/.extra/support-me-ko-fi.svg"><alt=""></a>

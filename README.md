@@ -163,8 +163,10 @@ make info
 
 ### Visual Guide to Running Tests
 
- <a href="https://github.com/f-corvaro/LIBFT"><img align="center" alt="running test" width="650" src="https://github.com/f-corvaro/LIBFT/blob/main/.extra/make.gif">
-
+<p align="center">
+ <a href="https://github.com/f-corvaro/LIBFT">
+  <img width="650" src="https://github.com/f-corvaro/LIBFT/blob/main/.extra/make.gif">
+ </a>
 </p>
 <br>
 
@@ -186,7 +188,11 @@ For a comprehensive review of what will be checked during evaluation, refer to t
 
 </p>
 
-<a href="https://github.com/f-corvaro/LIBFT"><img width="650" src="https://github.com/f-corvaro/LIBFT/blob/main/.extra/libft_cs.png">
+<p align="center">
+ <a href="https://github.com/f-corvaro/LIBFT">
+   <img width="650" src="https://github.com/f-corvaro/LIBFT/blob/main/.extra/libft_cs.png">
+ </a>
+</p>
 
 ### Moulinette Feedback
 
@@ -222,7 +228,7 @@ After submission, the Moulinette (an automated grading system) will evaluate you
 
 ## Support and Contributions
 
-<p align="justify">
+<p align="center">
 If you find this repository helpful, please consider starring it to show your support.. Your support is greatly appreciated!</p>
 
 <p align="center">

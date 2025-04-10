@@ -8,7 +8,6 @@
 	<b><i>"A solid foundation for system programming in C."</i></b><br>
 </p>
 <p align="center" style="text-decoration: none;">
-    <a href="https://github.com/f-corvaro/LIBFT/blob/main/.extra/en.subject.pdf"><img alt="subject" src="https://img.shields.io/badge/subject-libft-yellow" /></a>
     <a href="https://github.com/f-corvaro/LIBFT"><img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/f-corvaro/LIBFT?color=blueviolet" /></a>
     <a href="https://github.com/f-corvaro/LIBFT"><img alt="Code language count" src="https://img.shields.io/github/languages/count/f-corvaro/LIBFT?color=yellow" /></a>
     <a href="https://github.com/f-corvaro/LIBFT"><img alt="GitHub top language" src="https://img.shields.io/github/languages/top/f-corvaro/LIBFT?color=blueviolet" /></a>
@@ -24,7 +23,6 @@
  &nbsp;&nbsp;<a href="#visual-guide-to-running-tests">Visual Guide to Running Tests</a><br>
  <a href="#evaluation-process">Evaluation Process</a><br>
  &nbsp;&nbsp;<a href="#pre-submission-testing">Pre-Submission Testing</a><br>
- &nbsp;&nbsp;<a href="#correction-sheet">Correction Sheet</a><br>
  &nbsp;&nbsp;<a href="#moulinette-feedback">Moulinette Feedback</a><br>
  <a href="#acknowledgments">Acknowledgments</a><br>
  <a href="#developed-skills">Developed Skills</a><br>
@@ -178,20 +176,6 @@ make info
 
 To ensure your project is ready for submission and peer reviews, it's recommended to test it using the [Supreme Tester](https://github.com/FranFrau/Supreme-Tester-Libft) provided by [@FranFrau](https://github.com/FranFrau).
 
-</p>
-
-### Correction Sheet
-
-<p align="justify"> 
-
-For a comprehensive review of what will be checked during evaluation, refer to the correction sheet below:
-
-</p>
-
-<p align="center">
- <a href="https://github.com/f-corvaro/LIBFT">
-   <img width="650" src="https://github.com/f-corvaro/LIBFT/blob/main/.extra/libft_cs.png">
- </a>
 </p>
 
 ### Moulinette Feedback
